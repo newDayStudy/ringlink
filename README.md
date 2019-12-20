@@ -7,7 +7,7 @@ canvas简单制作环形进度条
 ## 安装和下载
 - 下载地址：https://github.com/newDayStudy/ringlink/releases
 - npm i ringlink -S
-
+- CDN: http://unpkg.com/ringlink/release/index.js
 
 ## 快速使用
 简单接入的文档

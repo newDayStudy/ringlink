@@ -52,7 +52,7 @@
     "email": "project@hostname.com"
   },
   "homepage": "https://github.com/newDayStudy/ringlink.git",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "devDependencies": {
     "http-server": "^0.12.0"
   }
