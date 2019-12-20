@@ -1,4 +1,5 @@
 # 使用2
+
 ```
 <script src="https://github.com/newDayStudy/ringlink/releases/index.js"></script>
 ringlink({
